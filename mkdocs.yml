@@ -1,0 +1,12 @@
+site_name: Elasticsearch Cluster
+theme:
+  name: readthedocs
+  # highlightjs: true
+
+nav:
+  - Home: 'index.md'
+  - Installing a Cluster: 
+    - 'Prequisites': 'prequisite_install.md'
+    - 'Install Master Node': 'master_node.md'
+    - 'Install Data Node': 'data_node.md'
+
